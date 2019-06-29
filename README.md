@@ -1,1 +1,1 @@
-"# foreign-key-generation" 
+"# script generation for sql objects" 
