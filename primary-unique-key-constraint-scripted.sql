@@ -1,4 +1,8 @@
-alter function dbo.fn_IXScripted (  
+alter function dbo.fn_IXScripted (
+--anil nair
+--2019-06-29
+--generate index scripting of given/all table(s)
+ 
 	@schema sysname = null
 	,@table sysname = null
 	,@constraint sysname = null
